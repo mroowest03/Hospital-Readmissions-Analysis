@@ -94,6 +94,16 @@ To investigate whether the elevated hip/knee ratios represented a broader patter
 
 **Key finding:** Hip/knee replacement had the highest proportion of substantially elevated ratios, at 10.37%, compared with 3.30% for CABG. This suggests that hip/knee replacement has a more pronounced upper tail of reported ERR values than the other categories, despite the similarity of their average ratios.
 
+## Visualizations
+
+The following charts illustrate the findings from each research question:
+
+- [Question 1: Above-Expected Readmissions by Condition](visualizations/Q1%20Hlthcare.pdf)
+- [Question 2: Average Excess Readmission Ratios](visualizations/Q2.Hlthcare.pdf)
+- [Question 3: Top 10 Hospital Readmission Ratios](visualizations/Q3%20Hlthcare.pdf)
+- [Question 4: Substantially Elevated Readmission Ratios](visualizations/Q4%20Hlthcare.pdf)
+  
+
 ## Business Insights and Recommendations
 
 The most important takeaway from this analysis is that average performance metrics can conceal meaningful differences between individual observations. Although average excess readmission ratios were similar across all six medical categories, the analysis of unusually elevated ratios revealed a notable concentration among hip and knee replacement records.
