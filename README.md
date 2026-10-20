@@ -1,5 +1,5 @@
 # Hospital Readmissions Performance Analysis
-##Analyzing Hospital Readmission Trends Using R##
+**Analyzing Hospital Readmission Trends Using R**
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ My goal was to identify patterns in hospital performance, investigate difference
 
 ## Dataset
 
-##Source:## [CMS FY 2026 Hospital Readmissions Reduction Program](https://data.cms.gov/provider-data/dataset/9n3s-kdb3#overview)
+**Source:** [CMS FY 2026 Hospital Readmissions Reduction Program](https://data.cms.gov/provider-data/dataset/9n3s-kdb3#overview)
 
 The original dataset contained 18,330 hospital-measure records and 12 variables, including hospital names, states, medical conditions, discharge counts, readmission counts, and excess readmission ratios.
 
@@ -21,17 +21,17 @@ After importing the data into R, I examined the dataset's structure, identified 
 
 The excess readmission ratio (ERR) is a CMS risk-adjusted performance measure comparing predicted readmissions with expected readmissions.
 
-- ##ERR below 1.0: Lower-than-expected readmissions
-- ##ERR equal to 1.0: Readmissions consistent with expectations
-- ##ERR above 1.0: Higher-than-expected readmissions
+- **ERR below 1.0:** Lower-than-expected readmissions
+- **ERR equal to 1.0:** Readmissions consistent with expectations
+- **ERR above 1.0:** Higher-than-expected readmissions
 
 The ERR is not the percentage of patients who were readmitted.
 
 ## Tools and Methods
 
-##Tools: R, RStudio
+**Tools:** R, RStudio
 
-##Analytical techniques:##
+**Analytical techniques:**
 - Data cleaning and numeric conversion
 - Missing-value assessment
 - Descriptive statistics
