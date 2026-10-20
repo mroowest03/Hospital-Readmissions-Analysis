@@ -132,3 +132,22 @@ Finally, the analyses were descriptive. No statistical significance testing or c
 ## Conclusion
 
 This project strengthened my ability to transform raw data into meaningful business insights using R. By moving beyond overall averages and examining the frequency and magnitude of elevated readmission ratios, I identified patterns that would not have been apparent through summary statistics alone. The project reinforced the importance of asking focused analytical questions, understanding the limitations of a dataset, and communicating findings in a way that can support informed business decisions.
+
+
+## How to Run This Project
+
+1. Download the CMS FY 2026 Hospital Readmissions Reduction Program dataset from:
+   https://data.cms.gov/provider-data/dataset/9n3s-kdb3
+
+2. Download `Hospital_Readmissions_Analysis.R` from this repository.
+
+3. Open the R script in RStudio.
+
+4. Click "Source" to run the script.
+
+5. When prompted, select the downloaded CMS CSV file.
+
+6. Review the results and visualizations generated in RStudio.
+
+This project uses base R and does not require additional packages.
+
